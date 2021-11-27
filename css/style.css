@@ -1,0 +1,72 @@
+
+.navbar{
+background-color: black;
+color: white;
+
+}
+.jime{
+
+width: 250px;
+}
+
+a{
+  font-family:'Montserrat', sans-serif;
+  font-weight: lighter;
+color: white;
+}
+.nav-link{
+  font-family:'Montserrat', sans-serif;
+  font-weight: lighter;
+color: white;
+}
+.img-fluid{
+width: 200px;
+}
+h2{
+  font-family:'Montserrat', sans-serif;
+font-weight: lighter;
+font-size: 50pt;
+}
+
+h1{
+  font-family:'Montserrat', sans-serif;
+font-weight: lighter;
+color: white;
+font-size: 50pt;
+}
+h5{
+  font-family:'Montserrat', sans-serif;
+font-weight:normal;
+
+font-size: 20pt;
+}
+h4{
+  font-family:'Montserrat', sans-serif;
+font-weight: lighter;
+}
+
+.container-2{
+background: black;
+margin: none
+}
+.container-4{
+background-color: black;
+}
+.icon{
+width: 30px;
+
+}
+.icone{
+width: 30px;
+}
+p{
+  font-family:'Montserrat', sans-serif;
+  font-weight: lighter;
+}
+.email{
+  font-family:'Montserrat', sans-serif;
+  color: white;
+  font-weight: lighter;
+  padding: 20px;
+
+}
